@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.name         = "DPScrollNumberLabel"
   s.version      = "0.0.2"
   s.summary      = "DPScrollNumberLabel is a iOS UI Plugin, It display number and have a real logic animation when you change the displayed number"
-  s.homepage     = "https://github.com/948080952/DPScrollNumberLabel"
+  s.homepage     = "https://github.com/liujianan901228/DPScrollNumberLabel"
   s.license      = "MIT"
 
 
@@ -50,7 +50,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/948080952/DPScrollNumberLabel.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/liujianan901228/DPScrollNumberLabel.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
